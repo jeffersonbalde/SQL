@@ -1,1 +1,1 @@
-# SQL
+# MySQL Learning Playground
